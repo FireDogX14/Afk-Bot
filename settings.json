@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "planetfox123BG.aternos.me",
+    "port": 26164,
     "version": "1.19.3"
   },
 
@@ -25,10 +25,10 @@
     },
 
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": false,
       "jump": false,
-      "rotate": false,
+      "rotate": true,
 
       "hit": {
         "enabled": false,
